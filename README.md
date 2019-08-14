@@ -1,16 +1,6 @@
-# flutter_crypto
+**Crypto App using FLutter** 
+This is a flutter app that fetches the price of various cryptocurrencies from an API an shows their percentage change over the last hour.
+The UI has been designed in a way such that the cryptocurrencies that have witnessed a positive growth have been highlighted in green
+while those that have witnessed a negative growth have been highlighted in blue.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application lets the user track the price of cryptocurrencies easily.
